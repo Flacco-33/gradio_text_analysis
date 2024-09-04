@@ -1,0 +1,23 @@
+# Ignorar la carpeta .venv
+.venv/
+
+# Ignorar la carpeta flagged
+flagged/
+
+# Ignorar archivos de configuración específicos de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de sistema operativos
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de compilación
+*.pyc
+__pycache__/
+
+# Ignorar archivos de entorno
+.env
+temp.py
